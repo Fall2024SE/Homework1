@@ -5,4 +5,4 @@ def test_pass():
 
     
 def test_fail():
-    assert homework1.binary_search([1,2,3,4,5], 0, 4, 9) == False
+    assert homework1.binary_search([1,2,3,4,5], 0, 10, 9) == False
