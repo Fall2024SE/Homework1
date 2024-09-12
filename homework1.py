@@ -14,6 +14,3 @@ def binary_search(arr, left, right, key):
    
 if(__name__ == "__main__") :
     print(binary_search([1,2,3,4,5], 0, 10, 3));
-
-# def add(a, b):
-#     return a+b
